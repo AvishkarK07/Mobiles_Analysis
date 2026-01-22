@@ -85,3 +85,6 @@ This dataset is intended for **educational and practice purposes only**.
 
 ## ✨ Author
 Prepared for **data analysis, visualization, and dashboard projects**.
+
+
+<img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/1.png" />
