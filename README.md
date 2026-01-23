@@ -1,4 +1,6 @@
 # Mobiles_Analysis
+<img width="1100" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/mobile.webp" />
+
 
 # 📊 Dataset README
 
