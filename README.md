@@ -89,19 +89,24 @@ This dataset is intended for **educational and practice purposes only**.
 Prepared for **data analysis, visualization, and dashboard projects**.
 
 # Visuals
-
+<h1>1.TOP 5 MOBILE COMPANIES</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/1.png" />
 
+<h1>2.Top 5 Mobiles</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/2.png" />
 
+<h1>3.Mobile Details</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/3.png" />
 
+<h1>4.Launched Price in Allover</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/4.png" />
 
 
 # Dashboards
 
+<h1>Top Mobiles & Companies</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/5.png" />
 
+<h1>Mobile Details & Overview</h1>
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/1.png" />
 
