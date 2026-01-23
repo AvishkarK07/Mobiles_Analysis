@@ -108,5 +108,5 @@ Prepared for **data analysis, visualization, and dashboard projects**.
 <img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/5.png" />
 
 <h1>Mobile Details & Overview</h1>
-<img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/1.png" />
+<img width="900" height="500" alt="Screenshot 2025-09-14 211235" src="https://github.com/AvishkarK07/Mobiles_Analysis/blob/main/image/6.png" />
 
